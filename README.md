@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Pydantic, Langchain**
 
-- 👯 I’m looking to collaborate on **Omni jib applier**
+- 👯 I’m looking to collaborate on **Omni job applier**
 
 - 🤝 I’m looking for help with **Skyven Browser Agent**
 
