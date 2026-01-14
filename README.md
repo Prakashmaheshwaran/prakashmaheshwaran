@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate AI Software Developer from United States</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prakashmaheshwaran" alt="prakashmaheshwaran" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on **Brain Tumor Detection using CV**
 
@@ -96,10 +92,4 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakashmaheshwaran&show_icons=true&locale=en&layout=compact" alt="prakashmaheshwaran" />
-</p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=prakashmaheshwaran&theme=default" alt="prakashmaheshwaran" />
-</p>
