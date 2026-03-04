@@ -23,16 +23,6 @@
 - 💬 Ask me about **AI architecture**, **Django**, **MongoDB**, and **workflow automation**
 - 👨‍💻 Portfolio: [prakash.dynoxglobal.com](https://prakash.dynoxglobal.com/)
 
----
-
-### 🛠️ Featured Projects
-
-- **[n8n-nodes-ffmpeg-wasm](https://github.com/Prakashmaheshwaran/n8n-nodes-ffmpeg-wasm)** - FFmpeg community node for n8n using WebAssembly
-- **[Omni Job Applier](https://github.com/Prakashmaheshwaran)** - AI-powered job application automation
-- **[Skyven Browser Agent](https://github.com/Prakashmaheshwaran)** - Intelligent web automation agent
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
